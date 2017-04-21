@@ -1,0 +1,36 @@
+8
+
+* Backport fixes from master
+
+7
+
+* Fix initial zoom level being extremely small: d.sl.o #486 (Tomeu)
+* New German translation
+
+6
+
+* Remove hacks needed because of d.sl.o #258 (Tomeu)
+* New languages and translations
+
+5
+
+* New translations from Pootle
+
+4
+
+* Show an object picker if no file is specified initially
+* Initial Journal support 
+
+3
+
+* Bengali (India) translations
+
+2
+
+* Restore original zoom level on return from fullscreen
+* New icon (Gary C Martin)
+* French translations (Bastien)
+
+1
+
+* Initial release
